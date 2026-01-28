@@ -1,0 +1,39 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.log
+*.bak
+*.orig
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Python (si se usan scripts/herramientas OSINT locales)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.coverage
+htmlcov/
+.venv/
+venv/
+ENV/
+env/
+
+# Node (si se usan utilidades web/CLI)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Compressed temp exports (mantener evidencias relevantes, ignorar temporales)
+*.part
+*.crdownload
