@@ -3,7 +3,7 @@
 
 - Entidad objetivo: Clínica de San Rafael de Cádiz
 <!-- AYUDA (BORRAR): Nombre exacto del objetivo (como aparece en fuentes públicas). -->
-- Equipo/Grupo: ´Grupo 3
+- Equipo/Grupo: Grupo 3
 <!-- AYUDA (BORRAR): Identificador del grupo/equipo. -->
 - Integrantes: José María Escalón Prada, Abel García Domínguez, David Jiménez Ruiz
 <!-- AYUDA (BORRAR): Lista de integrantes (mismo orden que en la presentación). -->
