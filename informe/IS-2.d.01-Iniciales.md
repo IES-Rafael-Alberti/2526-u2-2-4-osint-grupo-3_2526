@@ -3,11 +3,11 @@
 
 - Entidad objetivo: Clínica de San Rafael de Cádiz
 <!-- AYUDA (BORRAR): Nombre exacto del objetivo (como aparece en fuentes públicas). -->
-- Equipo/Grupo: [Nombre del grupo]
+- Equipo/Grupo: ´Grupo 3
 <!-- AYUDA (BORRAR): Identificador del grupo/equipo. -->
-- Integrantes: [Nombre Apellido (Iniciales)], [..]
+- Integrantes: José María Escalón Prada, Abel García Domínguez, David Jiménez Ruiz
 <!-- AYUDA (BORRAR): Lista de integrantes (mismo orden que en la presentación). -->
-- Fecha(s) de investigación: [YYYY-MM-DD a YYYY-MM-DD]
+- Fecha(s) de investigación: 29/01/2026
 <!-- AYUDA (BORRAR): Rango de fechas reales en las que hicisteis las consultas OSINT. -->
 - Versión: 1.0
 <!-- AYUDA (BORRAR): Subid versión si hay revisiones (1.1, 1.2...). -->
