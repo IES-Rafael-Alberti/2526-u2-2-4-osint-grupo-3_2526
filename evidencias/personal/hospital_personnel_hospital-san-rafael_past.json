@@ -1,0 +1,578 @@
+[
+    {
+        "image_url": "https://web.archive.org/web/20260130170816im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Antonio-Bascunana-Quirell-Director-Medico-de-Hospitales-Pascual-1.jpg",
+        "position": "Director Médico",
+        "name": "Antonio Bascuñana Quirell",
+        "specialty": "Medicina Interna",
+        "hospital": "Hospital Virgen del Camino",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170816im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Javier-Elvira-Gonzalez-Director-medico-1.jpg",
+        "position": "Director médico",
+        "name": "Francisco Javier Elvira González",
+        "specialty": "Medicina Interna",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170816im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Jaime-Ruiz-Doctor-especialista-en-Medicina-Familiar.jpg",
+        "position": "Director Médico",
+        "name": "Jaime Ruiz Muriel",
+        "specialty": "Urgencias",
+        "hospital": "Hospital Virgen de las Montañas",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170816im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Ignacio-Ortiz.-Director-Medico.jpg",
+        "position": "Director Médico",
+        "name": "Ignacio Ortiz Acero",
+        "specialty": "Cirugía general y del aparato digestivo",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170816im_/https://www.hospitalespascual.com/wp-content/uploads/2023/02/Carlos-Hernandez-Blanco-Lacave_cambiar-foto-por-esta_09A7203.jpg",
+        "position": "Director Médico",
+        "name": "Carlos Hernández- Blanco Lacave",
+        "specialty": null,
+        "hospital": "Hospital Virgen de la Bella",
+        "location": "Av. de las Rosas s/n – 21440"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170816im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Antonio-Leandro-Vieira-Doctor-de-Anestesiologia-y-Reanimacion-1-scaled.jpg",
+        "position": "Coordinador de la UCE",
+        "name": "Carlos Belascoain Prieto",
+        "specialty": null,
+        "hospital": "Hospital Virgen de la Bella",
+        "location": "Av. de las Rosas s/n – 21440"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170816im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Manuel-Geraldia-Doctor-de-Medicina-Interna.jpg",
+        "position": "Servicio de Medicina Interna",
+        "name": "Manuel Geraldía",
+        "specialty": "Medicina Interna",
+        "hospital": "Hospital Virgen de las Montañas",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170816im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Agustin-Garcia-Mancilla-Doctor-Traumatologo.jpg",
+        "position": "Servicio de Traumatología",
+        "name": "Agustín García Mancilla",
+        "specialty": null,
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170816im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Eva-Reyes-Perez-Directora-de-Enfermeria.jpg",
+        "position": "Directora de Enfermería",
+        "name": "Eva Reyes Pérez",
+        "specialty": null,
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170816im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Eugenia-Alonso-Doctora-de-Anatomia-patologica.jpg",
+        "position": "Servicio de Anatomía Patológica",
+        "name": "Eugenia Alonso Alejandro",
+        "specialty": "Anatomía Patológica",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170816im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Julio-Linera-Cortes-Doctor-de-Medicina-General.jpg",
+        "position": "Servicio de Medicina General",
+        "name": "Erick Esteban Esteban Pedreros",
+        "specialty": "Medicina Familiar y Comunitaria",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170816im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Viviana-Gonzalez-Gomez-Doctora-de-Medicina-General.jpg",
+        "position": "Servicio de Medicina General",
+        "name": "Viviana González Gómez",
+        "specialty": "Medicina Familiar y Comunitaria",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170836im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Silvia-Fernandez-Munoz-Directora-de-enfermeria.jpg",
+        "position": "Directora de Enfermería",
+        "name": "Silvia Fernández Muñoz",
+        "specialty": null,
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170836im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Emilio-Lopez-Asencio-Director-de-Administracion-1.jpg",
+        "position": "Director de Administración",
+        "name": "Emilio López Asencio",
+        "specialty": null,
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170836im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Salvador-Pascual-Sanchez-Gijon-Doctor-de-Cirugia-general-y-el-Aparato-digesti.jpg",
+        "position": "Servicio de Cirugía general y el Aparato Digestivo",
+        "name": "Salvador Pascual Sánchez-Gijón",
+        "specialty": "Aparato digestivo, Cirugía general y del aparato digestivo",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170836im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Sofia-Garrido-Insua-Doctora-de-Urologia.jpg",
+        "position": "Servicio de Urología",
+        "name": "Sofía Garrido Insua",
+        "specialty": "Urología",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170836im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Raquel-Leon-del-Pino-Doctora-de-Tocoginecologia-y-Obstetricia.jpg",
+        "position": "Servicio de Ginecología y Obstetricia",
+        "name": "Raquel León del Pino",
+        "specialty": "Ginecología y obstetricia",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170836im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Davide-Silanus-Testino-Doctor-de-Traumatologia.jpg",
+        "position": "Servicio de Traumatología",
+        "name": "Davide Silanus Testino",
+        "specialty": null,
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170836im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Paula-Vettori-de-Gaudio-Doctora-de-Tocoginecologia-y-Obstetricia.jpg",
+        "position": "Servicio de Ginecología y Obstetricia",
+        "name": "María Paula Vettori de Gaudio",
+        "specialty": "Ginecología y obstetricia",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170836im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Francisco-Santos-Jefe-de-Administracion.jpg",
+        "position": "Director de Administración",
+        "name": "Francisco Santos",
+        "specialty": null,
+        "hospital": "Hospital Virgen de las Montañas",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170836im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Cesar-Gomez-Director-de-enfermeria-1.jpg",
+        "position": "Gerente y Director de Enfermería",
+        "name": "César Gómez",
+        "specialty": null,
+        "hospital": "Hospital Virgen de las Montañas",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170836im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Jose-Miguel-Flores-Doctor-especialista-en-Cirugia-General-y-del-Aparato-digestivo.jpg",
+        "position": "Servicio de Cirugía general y el Aparato Digestivo",
+        "name": "José Miguel Flores Rivera",
+        "specialty": "Cirugía general y del aparato digestivo",
+        "hospital": "Hospital Virgen de las Montañas",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170836im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Jose-Luis-Vazquez-Doctor-especialista-en-Cirugia-Ortopedica-Y-Traumatologia.jpg",
+        "position": "Servicio de Traumatología",
+        "name": "José Luis Vázquez Hidalgo",
+        "specialty": "Traumatología",
+        "hospital": "Hospital Virgen de las Montañas",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170836im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Enrique-Garcia-del-Rio-Doctor-de-Medicina-Interna.jpg",
+        "position": "Servicio de Medicina Interna",
+        "name": "Enrique García del Río",
+        "specialty": "Medicina Interna",
+        "hospital": "Hospital Virgen de las Montañas",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170853im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Antonio-Castro-Doctor-de-la-especialidad-de-Obstetricia-Y-Ginecologia.jpg",
+        "position": "Servicio de Ginecología y Obstetricia",
+        "name": "Antonio Castro Sánchez",
+        "specialty": "Ginecología y obstetricia",
+        "hospital": "Hospital Virgen de las Montañas",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170853im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Fabian-Vidal-Doctor-de-la-especialidad-de-Obstetricia-Y-Ginecologia.jpg",
+        "position": "Servicio de Ginecología",
+        "name": "Fabian Ramón Vidal Santana",
+        "specialty": "Ginecología y obstetricia",
+        "hospital": "Hospital Virgen de las Montañas",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170853im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Miguel-Rabello-Formanti-Director-de-Enfermeria-1.jpg",
+        "position": "Director de Enfermería",
+        "name": "Miguel Rabello Formanti",
+        "specialty": null,
+        "hospital": "Hospital Virgen del Camino",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170853im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Rocio-Rodriguez-Villamil-Fernandez-Directora-de-Administracion.jpg",
+        "position": "Directora de Administración",
+        "name": "Rocío Rodríguez-Villamil Fernández",
+        "specialty": null,
+        "hospital": "Hospital Virgen del Camino",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170853im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Francisco-Reyes-Martinez-Doctor-de-Urologia.jpg",
+        "position": "Servicio de Urología",
+        "name": "Francisco Reyes Martínez",
+        "specialty": "Urología",
+        "hospital": "Hospital Virgen del Camino",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170853im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Francisco-Francino-Serrano-Doctor-de-Traumatologia.jpg",
+        "position": "Servicio de Traumatología",
+        "name": "Francisco Francino Serrano",
+        "specialty": "Traumatología",
+        "hospital": "Hospital Virgen del Camino",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170853im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/cambio-foto_Jose-Jimenez-Jimenez-Urologia_09A0112.jpg",
+        "position": "Servicio de Urología",
+        "name": "José Jiménez Jiménez",
+        "specialty": "Urología",
+        "hospital": "Hospital Virgen del Camino",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170853im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Manuel-Beltran-Robles-Doctor-de-Medicina-Interna.jpg",
+        "position": "Servicio de Medicina Interna",
+        "name": "Manuel Beltrán Robles",
+        "specialty": "Medicina Interna",
+        "hospital": "Hospital Virgen del Camino",
+        "location": ""
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170853im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Ana-de-Lacour-Julia-Doctora-de-Neurologia.jpg",
+        "position": "Servicio de Neurología",
+        "name": "Ana de Lacour Juliá",
+        "specialty": "Neurología",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170853im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Manuel-Morales-Director-de-Administracion.jpg",
+        "position": "Director de Administración",
+        "name": "Manuel Morales",
+        "specialty": null,
+        "hospital": "Hospital Virgen de la Bella",
+        "location": "Av. de las Rosas s/n – 21440"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170853im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Almudena-Jimenez-Directora-de-enfermeria.jpg",
+        "position": "Directora de Enfermería",
+        "name": "Almudena Jiménez",
+        "specialty": null,
+        "hospital": "Hospital Virgen de la Bella",
+        "location": "Av. de las Rosas s/n – 21440"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170853im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Ana-Paula-Urbina-Portelo-Doctora-de-Urologia.jpg",
+        "position": "Servicio de Urología",
+        "name": "Ana Paula Urbina Portela",
+        "specialty": "Urología",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170908im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Antonio-Garrido-Marquez-Doctor-de-Oftalmologia.jpg",
+        "position": "Servicio de Oftalmología",
+        "name": "Antonio Garrido Marquez",
+        "specialty": "Oftalmología",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170908im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Antonio-Linares-Moreno-Doctor-de-Oncologia-Radioterapica.jpg",
+        "position": "Servicio de Oncología Radioterápica",
+        "name": "Antonio Linares Moreno",
+        "specialty": "Oncología radioterápica",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170908im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Beatriz-Lopez-Alonso-Doctora-de-Medicina-Interna.jpg",
+        "position": "Servicio de Medicina Interna",
+        "name": "Beatriz López Alonso",
+        "specialty": "Medicina Interna",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170908im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Begona-Zapata-Garcia-Doctora-de-Urgencias.jpg",
+        "position": "Servicio de Urgencias",
+        "name": "Begoña Zapata García",
+        "specialty": "Urgencias",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170908im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Belen-Rojano-Broz-Doctora-de-Neumonologia.jpg",
+        "position": "Servicio de Neumología",
+        "name": "Belén Rojano Broz",
+        "specialty": "Neumología",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170908im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Carmen-Baquero-Perez-Doctora-de-Medicina-Interna.jpg",
+        "position": "Doctora de Medicina Interna",
+        "name": "María Carmen Baquero Pérez",
+        "specialty": "Medicina Interna",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170908im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Daniel-Godoy-Monzon-Doctor-de-Medicina-General.jpg",
+        "position": "Servicio de Traumatología",
+        "name": "Daniel Godoy Monzón",
+        "specialty": "Traumatología",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170908im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Daniela-Nerach-Pena-Doctora-de-Cirugia.jpg",
+        "position": "Servicio de Cirugía",
+        "name": "Daniela Valeria Nerach Peña",
+        "specialty": "Cirugía general y del aparato digestivo",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170908im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Bolea-Lafont-Adolfo-Doctor-de-Medicina-Intensiva.jpg",
+        "position": "Servicio de Medicina Intensiva",
+        "name": "Adolfo Bolea Lafont",
+        "specialty": "Medicina intensiva",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170908im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Dayana-Jimenez-Fernandez-Doctora-de-Medicina-General.jpg",
+        "position": "Servicio de Oftalmología",
+        "name": "Dayana Sarahi Jiménez Fernández",
+        "specialty": "Oftalmología",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170908im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Inma-Escobar-Doctora-de-Radiologia.jpg",
+        "position": "Servicio de Radiología",
+        "name": "Inmaculada Escobar Díaz",
+        "specialty": "Radiología",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170908im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Diego-Alfredo-Ruiz-Garzon-Doctor-de-Medicina-General.jpg",
+        "position": "Servicio de Urgencias",
+        "name": "Diego Alfredo Ruiz Garzón",
+        "specialty": "Urgencias",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170925im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Inmaculada-Meni-Solano-Doctora-de-Analisis-Clinicos-y-Laboratorio..jpg",
+        "position": "Servicio de Análisis Clínicos y Laboratorio",
+        "name": "Inmaculada Meni Solano",
+        "specialty": "Análisis Clínicos",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170925im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Eduardo-Leon-Lezcano-Doctor-de-Medicina-General.jpg",
+        "position": "Servicio de Anatomía Patológica",
+        "name": "Eduardo León Lezcano",
+        "specialty": "Anatomía Patológica",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170925im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Rafael-del-Pino-Gonzalez-Doctor-de-Medicina-Intensiva.jpg",
+        "position": "Servicio de Medicina Intensiva",
+        "name": "Rafael del Pino González",
+        "specialty": "Medicina intensiva",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170925im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Javier-Piury-Alonso-Doctor-de-Anestesia.jpg",
+        "position": "Servicio de Anestesia",
+        "name": "Francisco Javier Piury Alonso",
+        "specialty": "Anestesia",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170925im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Maria-Sanchez-Moruno-Doctora-de-Medicina-Interna.jpg",
+        "position": "Servicio de Medicina Interna",
+        "name": "María Sánchez Moruno",
+        "specialty": "Medicina Interna",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170925im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Erick-Esteban-Pedreros-Porras-Doctor-de-Medicina-General.jpg",
+        "position": "Servicio de Medicina General",
+        "name": "Julio Linera Cortés",
+        "specialty": "Medicina General",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170925im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Jorge-Munoz-Cabrera-Ginecologia-ok.jpg",
+        "position": "Servicio de Ginecología y Obstetricia",
+        "name": "Jorge Muñoz Cabrera",
+        "specialty": "Ginecología y obstetricia",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170925im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Maria-del-Carmen-Tejonero-Alvarez-Doctora-de-Cirugia-general-y-el-Aparato-digestivo.jpg",
+        "position": "Servicio del Aparato digestivo",
+        "name": "María del Carmen Tejonero Álvarez",
+        "specialty": "Aparato digestivo, Cirugía general y del aparato digestivo",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170925im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Jose-Luis-Lerida-Vaca-Doctor-de-Anatomia-Patologica.jpg",
+        "position": "Servicio de Anatomía Patológica",
+        "name": "José Luis Lérida Vaca",
+        "specialty": "Anatomía Patológica",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170925im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Luis-Miguel-Ruiz-Doctor-Oftalmologo.jpg",
+        "position": "Servicio de Oftalmología",
+        "name": "Luis Miguel Herrero Ruiz",
+        "specialty": "Oftalmología",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170925im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/German-Spinetti-Doctor-de-Urologia.jpg",
+        "position": "Servicio de Urología",
+        "name": "Germán Atilio Spinetti Davila",
+        "specialty": "Urología",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170925im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Juan-Jimenez-Baquero-Doctor-de-Traumatologia.jpg",
+        "position": "Servicio de Traumatología",
+        "name": "Juan Jiménez Baquero",
+        "specialty": "Traumatología",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170942im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Jose-Manuel-Pascual-Espinosa-Traumatologia.jpg",
+        "position": "Servicio de Traumatología",
+        "name": "José Manuel Pascual Espinosa",
+        "specialty": "Traumatología",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170942im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Javier-Sepulveda-Espejo-Doctor-de-Pediatria.jpg",
+        "position": "Servicio de Pediatría",
+        "name": "Javier Sepulveda Espejo",
+        "specialty": "Pediatría",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170942im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Luis-Carretero-Cala-Doctor-de-Medicina-Interna.jpg",
+        "position": "Servicio de Digestivo",
+        "name": "Luis Carretero Cala",
+        "specialty": "Aparato digestivo",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170942im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Luis-Romero-Gutierrez-Doctor-de-Anatomia-Patologica.jpg",
+        "position": "Servicio de Anatomía Patológica",
+        "name": "Luis Jesús Romero Gutiérrez",
+        "specialty": "Anatomía Patológica",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170942im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Guillermo-Gomiz-Rodriguez-Doctor-de-Tocoginecologia-y-Obstetricia.jpg",
+        "position": "Servicio de Ginecología y Obstetricia",
+        "name": "Guillermo Gómiz Rodriguez",
+        "specialty": "Ginecología y obstetricia",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170942im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Francisco-Javier-Rodriguez-Vera-Doctor-de-Medicina-Interna.jpg",
+        "position": "Servicio de Medicina Interna",
+        "name": "Francisco Javier Rodriguez Vera",
+        "specialty": "Medicina Interna",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170942im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Manuel-Flores-Chacartegui-Doctor-de-Medicina-Interna.jpg",
+        "position": "Servicio de Medicina Interna",
+        "name": "Manuel Flores Chacartegui",
+        "specialty": "Medicina Interna",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170942im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Concepcion-Ramos-Curado-Doctora-de-Cirugia-general-y-del-Aparato-digestivo.jpg",
+        "position": "Servicio de Cirugía general y del Aparato digestivo",
+        "name": "Concepción Ramos Curado",
+        "specialty": "Aparato digestivo, Cirugía general y del aparato digestivo",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170942im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Manuel-Oneto-Otero-Doctor-de-Cardiologia.jpg",
+        "position": "Servicio de Cardiología",
+        "name": "Manuel Jesús Oneto Otero",
+        "specialty": "Cardiología",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170942im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Cesareo-Garcia-Palacios-Doctor-de-Urologia.jpg",
+        "position": "Servicio de Urología",
+        "name": "Cesáreo García Palacios",
+        "specialty": "Urología",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170942im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Ana-Troncoso-Gil-Doctora-de-Cardiologia.jpg",
+        "position": "Servicio de Cardiología",
+        "name": "Ana Troncoso Gil",
+        "specialty": "Cardiología",
+        "hospital": "Hospital Santa María del Puerto",
+        "location": "Calle Valdés s/n ,11500 – Puerto de Santa María – Cádiz"
+    },
+    {
+        "image_url": "https://web.archive.org/web/20260130170942im_/https://www.hospitalespascual.com/wp-content/uploads/2023/03/Maria-Jesus-Lopez-Tinoco-Doctora-de-Microbiologia.jpg",
+        "position": "Servicio de Microbiología",
+        "name": "Maria Jesús López Tinoco",
+        "specialty": "Microbiología y parasitología",
+        "hospital": "Hospital San Rafael",
+        "location": "C. Diego Arias, 2, 11002 - Cádiz"
+    }
+]
